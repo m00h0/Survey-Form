@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey-Form</title>
+    
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+          <h1 id="title" class="text-center"> Baghdad Engineering College Survey Form</h1>
+          <p id="description" class="description text-center">
+            Student information questionnaire
+          </p>
+        </header>
+    </div>
+      
+      <body>
+        <form id="survey-form">
+          <div class="form-group">
+            <label id="name-label" for="name">Name</label>
+            <input type="text" name="name" id="name" class="form-control" placeholder="enter your name" required />
+          </div>
+          <div class="form-group">
+            <label id="email-label" for="name">email</label>
+            <input type="email" name="email" id="email" class="form-control" placeholder="enter your email" required />
+          </div>
+          <div class="form-group">
+            <label id="number-label" for="number"> stage</label>
+            <input type="number" name="number" id="number" min="1" max="4" class="form-control" placeholder="enter your stage" required />
+          </div>
+          <div class="form-group">
+            What is Your Department<br>
+            <select id="dropdown" name=" Department" class="form-control" required>
+              <option disabled selected value>Select your Department</option>
+              <option value="communication">communication</option>
+              <option value="aviation">Aviation</option>
+              <option value="aviation technologies">Aviation Technologies</option>
+            </select>
+          </div>
+          <div class="form-group">
+            What do you think of teachers' teaching?
+            <label><br>
+              <input name="teachers' teaching" id="good" value="good" type="radio" class="input-think" checked />good</label>
+            <label><br>
+              <input name="teachers' teaching" id="bad" value="bad" type="radio" class="input-think" />bad</label>
+            <br>
+            <label><input name="teachers' teaching" id="prefer not to say" value="Prefer not to say" type="radio" class="input-think" />Prefer not to say</label>
+          </div><br>
+          <div class="form-group">
+            reason for choosing the department<br>
+            <select id="reason" name="department" class="form-control" required> <br>
+              <option disabled selected value>Select an option</option>
+              <option value="challenges">rating</option>
+              <option value="projects">Your Choosing</option>
+              <option value="community">Random Choosing</option>
+            </select>
+            <br>
+          </div>
+          <div class="form-group">
+            <label for="interested">
+              what are you the most interested in college? <br>
+            </label>
+            <label><input id="checkbox" type="checkbox" name="interested" for="checkbox" value="campus" />campus</label><br>
+            <label><input id="checkbox" type="checkbox" name="interested" for="checkbox" value=" The lecturer's ability to explain the material" /> The lecturer's ability to explain the material</label><br>
+            <label><input id="checkbox" type="checkbox" name="interested" for="checkbox" value="sciences laboratories" />sciences laboratories</label><br>
+          </div>
+          <div class="form-group">
+            <label>Any suggestions?<br>
+              <textarea id="textarea" name="instructions" rows="6" cols="60">
+             </textarea></label>
+          </div>
+          <div class"form-group">
+            <button type="submit" id="submit" class="submit-button">
+              Submit
+            </button>
+          </div>
+        </form>
+        </div>
+        </form>
+      </body>
+      
+      </html>
+</body>
+</html>

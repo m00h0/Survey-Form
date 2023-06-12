@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+
+body {
+  font-family: "Shadows Into Light", cursive;
+  line-height: 1.6;
+  background-color: ;
+  width: 500px;
+  margin: auto;
+   background-image: linear-gradient(
+      100deg,rgba(20,20,60,0.2),
+     rgba(30,30,50,0.3)
+    ),
+    url(https://avic.uobaghdad.edu.iq/wp-content/uploads/sites/54/2020/11/%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D9%84%D9%8A%D8%A9.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+  
+  
+}
+form {
+  background: var(-);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+  width:400px;
+  margin:0 auto;
+}
+.form-control{
+  display:block;
+  width:90%;
+  
+}
+.submit-button{
+  width:89%;
+  background-color:#E1BD6E ;
+  padding:0.1rem;
+  border-radius:0.3rem;
+}
