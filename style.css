@@ -10,7 +10,7 @@ body {
       100deg,rgba(20,20,60,0.2),
      rgba(30,30,50,0.3)
     ),
-    url(https://avic.uobaghdad.edu.iq/wp-content/uploads/sites/54/2020/11/%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D9%84%D9%8A%D8%A9.png);
+    url(https://avic.uobaghdad.edu.iq/wp-content/uploads/sites/54/2020/11/%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D9%84%D9%8A%D8%A3.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -28,7 +28,7 @@ form {
   width:90%;
   
 }
-.submit-button1{
+.submit-button2{
   width:89%;
   background-color:#E1BD6E ;
   padding:0.1rem;
