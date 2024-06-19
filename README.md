@@ -66,7 +66,7 @@ In order to run this project you need: Run Linters
 
 Clone this repository to your desired folder:
 
-https://github.com/AhmedMh0/Mobile-Portfolio
+https://github.com/m00h0/Mobile-Portfolio
 
 
 ### Install
