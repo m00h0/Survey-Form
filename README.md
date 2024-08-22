@@ -50,7 +50,7 @@
 
 - **[Mobile Project]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="##getting-started">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="start-project"></a>
