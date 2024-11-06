@@ -32,7 +32,7 @@
 
 
 
-**[Ahmed mobile portfolio]** is a Moblie Portfolio Website.
+**[mobile portfolio]** is a Moblie Portfolio Website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
