@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Moblie Portfolio] <a name="Moblie Portfolio"></a>
+# 📖 [Portfolio] <a name="Moblie Portfolio"></a>
 
 
 
