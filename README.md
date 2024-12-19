@@ -60,7 +60,7 @@ Coming soon .
 
 
 
-## 💻 Getting Started <a name="start-project"></a>
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
